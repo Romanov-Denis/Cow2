@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func `switch`(_ sender: UISwitch) {
+    }
+    @IBAction func Segmented(_ sender: UISegmentedControl) {
+    }
+    
 }
 
